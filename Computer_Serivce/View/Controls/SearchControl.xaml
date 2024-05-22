@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="Computer_Serivce.View.Controls.SearchControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Computer_Serivce.View.Controls" 
+             xmlns:vm="clr-namespace:Computer_Serivce.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <vm:SearchViewModel />
+    </UserControl.DataContext>
+
+    <Grid Style="{StaticResource Content}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Style="{StaticResource Header}" Text="Computer Service" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <StackPanel Style="{StaticResource NameRow}" Grid.Row="1" Orientation="Horizontal">
+            <Label Content=" Year " VerticalAlignment="Center"/>
+            <Label Content=" Brand" VerticalAlignment="Center" />
+            <Label Content=" Model" VerticalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Style="{StaticResource InputRow}" Grid.Row="2" Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+            <TextBox PreviewTextInput="NumberValidationTextBox" Text="{Binding RepairedYear, Mode=TwoWay}" />
+            <TextBox Text="{Binding Brand}" />
+            <TextBox Text="{Binding Model}" />
+        </StackPanel>
+
+        <StackPanel Style="{StaticResource ButtonsRow}" Grid.Row="3" Orientation="Horizontal">
+            <Button 
+                Style="{StaticResource ButtonStyle}" 
+                Content="Search" 
+                Command="{Binding SearchRepairsCommand}" 
+                Padding="5" />
+            <Button 
+                Style="{StaticResource ButtonStyle}" 
+                Content="Clear" 
+                Command="{Binding ClearCommand}"
+                Padding="5" />
+        </StackPanel>
+
+        <TextBlock Style="{StaticResource Header}" Text="Results" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <DataGrid 
+            Style="{StaticResource Datagrid}"
+            ColumnHeaderStyle="{StaticResource DatagridHeader}"
+            CellStyle="{StaticResource DataGridCellStyle}"
+            Grid.Row="5" AutoGenerateColumns="False" 
+            ItemsSource="{Binding Repairs}"
+            Margin="30,10,30,100"
+            IsReadOnly="True"
+        >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="RepairID" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="Year of service" Binding="{Binding YearOfService}" />
+                <DataGridTextColumn Header="Repair Descripion" Binding="{Binding Description}" />
+                <DataGridTextColumn Header="ComputerID" Binding="{Binding Computer.Id}" />
+                <DataGridTextColumn Header="Brand" Binding="{Binding Computer.Brand}" />
+                <DataGridTextColumn Header="Model" Binding="{Binding Computer.Model}" />
+                <DataGridTextColumn Header="Serial Number" Binding="{Binding Computer.SerialNumber}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

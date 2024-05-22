@@ -1,0 +1,17 @@
+﻿<Window x:Class="Computer_Serivce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Computer_Serivce"
+        xmlns:components="clr-namespace:Computer_Serivce.View.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <components:SearchControl Grid.Row="0" />
+    </Grid>
+</Window>

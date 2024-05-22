@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\viewmodel\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:viewmodel\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\viewmodel\\addrepairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:viewmodel\\addrepairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\view\\windows\\addrepairwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:view\\windows\\addrepairwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\view\\controls\\searchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:view\\controls\\searchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\view\\controls\\searchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:view\\controls\\searchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\helpers\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:helpers\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|d:\\projects\\tu-sofia\\6th-semestar\\ps_courseproject\\computer_serivce\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB434759-723B-44AF-82C8-02276255C487}|Computer_Serivce.csproj|solutionrelative:view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchControl.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Controls\\SearchControl.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Controls\\SearchControl.xaml.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Controls\\SearchControl.xaml.cs",
+              "RelativeToolTip": "View\\Controls\\SearchControl.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:06:26.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRepairWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\AddRepairWindow.xaml",
+              "RelativeDocumentMoniker": "View\\Windows\\AddRepairWindow.xaml",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\AddRepairWindow.xaml",
+              "RelativeToolTip": "View\\Windows\\AddRepairWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T06:17:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRepairViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\ViewModel\\AddRepairViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AddRepairViewModel.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\ViewModel\\AddRepairViewModel.cs",
+              "RelativeToolTip": "ViewModel\\AddRepairViewModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:48:18.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\ViewModel\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\SearchViewModel.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\ViewModel\\SearchViewModel.cs",
+              "RelativeToolTip": "ViewModel\\SearchViewModel.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAiwMAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:29:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T10:26:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchControl.xaml",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Controls\\SearchControl.xaml",
+              "RelativeDocumentMoniker": "View\\Controls\\SearchControl.xaml",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Controls\\SearchControl.xaml",
+              "RelativeToolTip": "View\\Controls\\SearchControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T08:57:06.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Helpers\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\DelegateCommand.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Helpers\\DelegateCommand.cs",
+              "RelativeToolTip": "Helpers\\DelegateCommand.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:36:46.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Database\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseService.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Database\\DatabaseService.cs",
+              "RelativeToolTip": "Database\\DatabaseService.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAALQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:06:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T12:15:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseContext.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "Database\\DatabaseContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:58:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\TU-Sofia\\6th-semestar\\PS_CourseProject\\Computer_Serivce\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:26:47.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
